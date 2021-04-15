@@ -22,5 +22,5 @@ We need to act now and influence the system. Where there is a woman, there is a 
 
 Happy International Women's day.
 
- [Here](https://www.linkedin.com/in/prathima-kadari) is a link to my LinkedIn in case you want to share your take on it or drop your comments.  I was intially skeptical about expressing my views but on a ocassion of IWD, I wanted to take a stand on behalf of all the women to uplift and enlighten the society.
+[Here](https://www.linkedin.com/in/prathima-kadari) is a link to my LinkedIn in case you want to share your take on it or drop your comments.  I was intially skeptical about expressing my views but on a ocassion of IWD, I wanted to take a stand on behalf of all the women to uplift and enlighten the society.
 Thanks for reading. 
