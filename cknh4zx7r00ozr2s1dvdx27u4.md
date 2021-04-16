@@ -1,16 +1,16 @@
 ## My Lane of Blogging Plans
 
-#⚡-2articles1week Challenge
+<h2>#⚡-2articles1week Challenge</h2>
 
 Hello All.
 
-Welcome to my page. Blogs had become a vital part and are most needed by generations across world. Internet is showering blogs these days. This article is written as a Task4 for #HashnodeBootcamp.
+Welcome to my page. Blogs had become a vital part and are most needed by generations across world. Internet is showering blogs these days. This article is written as a Task4 for **#HashnodeBootcamp.**
 
 In this article, I'll articulate my blogging plans I have for my blog in coming future and introduce you to the reasons I blog.
 
-Let's get started
+Let's get started:
 
-**Plans for My Blog:**
+<h2>Plans for My Blog:</h2>
 
 - Do my planning well before. Think it as magazine which sends monthly or weekly newsletter.
 - Jot down my points and convey with quality content
@@ -24,7 +24,7 @@ Let's get started
 ![plan.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1618376913250/5N0yQHHaKO.gif)
 
 
-**Top 5 Reasons to Blog:**
+<h2>Top 5 Reasons to Blog:</h2>
 
 - **Sharing Knowledge**
 
@@ -52,12 +52,14 @@ Sharing is caring ❤️
 
 Thank you for reading, I would like to connect with you on [Twitter](https://twitter.com/prathimak88)| [LinkedIn](https://www.linkedin.com/in/prathima-kadari/).
 
-**You should surely checkout my other blogs:**
+<h2>You should surely checkout my other blogs:</h2>
 
 [Getting Started with Internet of Things(IOT)](https://prathimakadari.hashnode.dev/getting-started-with-iot)
 
 [My Python Learning Experience](https://prathimakadari.hashnode.dev/my-python-learning-experience)
 
 [A Simple Guide to K-Nearest Neighbor Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
+
+
 
 See you in my next article, Take care.
