@@ -2,13 +2,14 @@
 
 <h2>#⚡-2articles1week Challenge</h2>
 
-Hello, All.
+Hello, **All**.
 
-Welcome to my page. Blogs had become a vital part and are most needed by generations across world. Internet is showering blogs these days. This article is written as a Task4 for **#HashnodeBootcamp.**
+Welcome to my page. You can notice that blogs had become a vital part and are most needed by generations across the world. Internet is showering blogs these days. This article is written as a Task4 for **#HashnodeBootcamp.**
 
-In this article, I'll articulate my blogging plans I have for my blog in coming future and introduce you to the reasons I blog.
+In this article, I'll articulate my blogging plans I have for my blog in the coming future and introduce you to the reasons I blog.
 
-Let's get started.
+**Let's get started.**
+
 
 <h2>💡Plans for My Blog:</h2>
 
@@ -17,7 +18,7 @@ Let's get started.
 - Plan number of posts I would publish weekly and prepare a blogging calendar
 - Know the best keywords to focus once idea or topic is decided
 - Add few facts as resources to increase the authority
-- Prepare a right post format for all your articles to follow
+- Prepare a right post format for all of my articles to follow
 - Promoting my content effectively
 
 
