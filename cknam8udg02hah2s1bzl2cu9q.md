@@ -17,6 +17,10 @@ How to learn Python? Where to start from was the initial thought that was juggli
 
 Do you want to be called as pythonista? Do you want to automate? Do you want to develop practical applications on customized needs? Do you want to do web scraping or data science related projects.
 Then stick tight and know the resources which helped me be a one and would help you as well.
+
+
+![Start Learning Python.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1618654710012/Gz1ppRBgS.png)
+
  
 **Let's go on a tour with few tips I have got to share:**
 
