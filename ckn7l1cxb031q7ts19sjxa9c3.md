@@ -87,11 +87,18 @@ Thanks for reading, I would love to connect with you at  [Twitter ](https://twit
 
 <h2>📖You should definitely check out my other Blogs:</h2>
 
+-[Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
+
 - [My Python Learning Experience](https://prathimakadari.hashnode.dev/my-python-learning-experience)
+
+- [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
+
+- [Building my Personal Brand](https://prathimakadari.hashnode.dev/building-my-personal-brand)
 
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
 
-**👀References**
+
+<h2>👀References</h2>
 
 - [IoT Forum](https://new.iotforindia.org/)
 - [IoT World](https://www.iotworldtoday.com/)
