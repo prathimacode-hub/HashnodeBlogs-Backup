@@ -10,24 +10,25 @@ In this article, I'll  share my thoughts and plans I have on building up my **pe
 
 **So let's get started:**
 
+<h2>💡My Plans:</h2>
 
-<h2>Be Consistent</h2>
+**Be Consistent**
 
 To show your personal brand, consistency is the the key factor. Being consistent in delivering quality content timely and use of same image across various platforms helps in readers recognizing you. I've same image across my media already and currently working on cover and portfolio. I'm putting my efforts in achieving the same and reflecting my personality. 
 
-<h2>Authority and Trust</h2>
+**Authority and Trust**
 
 Showing your personal brand will help in building trust with readers and present you as a resourceful authority and a knowledgeable person in your industry. It helps in creating your own value
 
-<h2>Know your Audience</h2>
+**Know your Audience**
 
 Before you start working on developing your personal brand, you should know the niche you are focussing on and audience you're trying to reach. Once you define an audience, article can be easier to craft because it will help you understand the type of story you want to express.
 
-<h2>Build your Network</h2>
+**Build your Network**
 
 Having a personal brand clearly states who you are, what you do and how you can help others. That makes it easier for readers to see the value they get in connecting with you. You can grow your network both offline and online effectively.
 
-<h2>Grow your Online Presence</h2>
+**Grow your Online Presence**
 
 The vital aspect of personal branding is to make sure your online presence serves value and engage wit readers. Your presence will vary by the medium you choose. Be it personal or professional, it can be crafted according to the audience you are targeting and double your efforts by sharing the knowledge which is useful for readers
 
