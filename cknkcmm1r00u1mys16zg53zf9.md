@@ -2,13 +2,14 @@
 
 <h2>#⚡-2articles1week Challenge</h2>
 
-Hello, all.
+Hello, **All**.
 
-This blog article is written after an insightful session by @[Colby Fayock](@colbyfayock). Personal Brand make us to distinct from others and reflects our identity of what we are. And this article is written as a Task3 for **#HashnodeBootcamp.**
+This blog article is written after an insightful session by @[Colby Fayock](@colbyfayock). Personal Brand helps us in being distinct from others and reflects our identity of what we are. And this article is written as a Task3 for **#HashnodeBootcamp.**
 
-In this article, I'll  share my thoughts and plans I have on building up my personal brand.
+In this article, I'll  share my thoughts and plans I have on building up my **personal brand**.
 
-So let's get started:
+**So let's get started:**
+
 
 <h2>Be Consistent</h2>
 
@@ -30,14 +31,18 @@ Having a personal brand clearly states who you are, what you do and how you can 
 
 The vital aspect of personal branding is to make sure your online presence serves value and engage wit readers. Your presence will vary by the medium you choose. Be it personal or professional, it can be crafted according to the audience you are targeting and double your efforts by sharing the knowledge which is useful for readers
 
+
 The main goal on building a personal brand is to stand out and show your value among others.
 
 Hope your thoughts and plans of building a personal brand are similar. If not, you can drop me in comments with other tips on building yours. Do share me with your valuable suggestions. This blog post will be updated timely. Thanks for reading.
 
-I would love to connect with you at [Twitter](https://twitter.com/prathimak88) | [LinkedIn](https://www.linkedin.com/in/prathima-kadari).
+
+I would love to connect with you at [Twitter](https://twitter.com/prathimak88) | [LinkedIn](https://www.linkedin.com/in/prathima-kadari).🤝🏻
 
 
-<h2>You should definitely check out my other Blogs:</h2>
+<h2>📖You should definitely check out my other Blogs:</h2>
+
+- [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
 
 - [My Python Learning Experience](https://prathimakadari.hashnode.dev/my-python-learning-experience)
 
