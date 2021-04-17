@@ -2,7 +2,7 @@
 
 Hello, **All**.
 
-I've started documenting my experiences I've encountered be it a technical or non technical through my new series titled "**My Personal Experiences**". This article is written as a Task2 for #HashnodeBootcamp.
+I've started documenting my experiences I've encountered be it a technical or non technical through my new series titled "**My Personal Experiences**". This article is written as a Task2 for #HashnodeBootcamp after a wonderful session by @[Ali Spittel](@aspittel). 
 
 In this article, I'll be sharing my learning journey with Python.
 
