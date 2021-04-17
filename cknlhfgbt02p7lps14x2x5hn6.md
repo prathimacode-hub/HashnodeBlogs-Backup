@@ -1,4 +1,4 @@
-## Stepping Stone to my Portfolio
+## Stepping Stone to My Portfolio
 
 Hello, **All**.
 
