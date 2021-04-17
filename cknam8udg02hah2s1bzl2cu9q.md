@@ -112,9 +112,15 @@ Thank you for reading, I would like to connect with you on [Twitter](https://twi
 
 <h2>You should surely checkout my other blogs:</h2>
 
+- [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
+
 - [Getting Started with Internet of Things(IOT)](https://prathimakadari.hashnode.dev/getting-started-with-iot)
 
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
+
+- [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
+
+- [Building my Personal Brand](https://prathimakadari.hashnode.dev/building-my-personal-brand)
 
 <h2>References</h2>
 
