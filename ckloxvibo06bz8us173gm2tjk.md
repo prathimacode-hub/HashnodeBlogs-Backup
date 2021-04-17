@@ -1,10 +1,17 @@
 ## A Simple Guide to K-Nearest Neighbor Classification using Python
 
-**Introduction**
+Hello, **All**.
+
+This is my first article on Hashnode. Feeling nervous to try something new. I hope this will be best decision taken. I'll be sharing all my learnings and knowledge I've gained on Machine Learning in my new series titled "Machine Learning". 
+
+Let's get started without any delay.
+ 
+<h2>👇Introduction</h2>
 
 This article is basically concerned with Supervised ML Classification Algorithm-KNN (K Nearest Neigbors) algorithm. It's one of the easy and mostly used classification algorithms where a new data point is differentiated based on resemblance in the particular group of neighboring data points. It provides a competitive result.
 
-**How it works?**
+
+<h2>💻How it works?</h2>
 
 The algorithm checks the distances between this and every other K numbers of datapoint from the dataset whch are close to the initial point and selects that group which has better frequency for a given data point in the set. Generally, Euclidean distance is considered as measure of distance.  The end model result is the labelled data set in space. This algorithm is famously known for wide range of applications such as genetics, forecasting etc. This is used best when added features are present and out displays SVM algorithm in this case.
 
@@ -14,9 +21,9 @@ The fact is KNN reduces overfitting. On the other hand, we have a requirement to
 ![K-Nearest Neighbor Classification.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1614432064944/6lPJ0DdKS.png)
 
 
-**Approach**
+<h2>🚀Approach</h2>
 
-Let's indulge deep into the different steps of K-NN involved  in categorizing a new data point. 
+**Let's indulge deep into the different steps of K-NN involved  in categorizing a new data point.** 
 
 Step 1: Pick the value of K neighbors(let's say **K=5**)
 Step 2: Based on euclidean distance, search the K (5) nearest data point for our new data point
@@ -174,13 +181,35 @@ cm = confusion_matrix(y_test, y_pred)
 ac = accuracy_score(y_test, y_pred)
 ``` 
 
-**Conclusion**
 
-Now you know the what is K-Nearest  Neighbor Algorithm and the concept is covered. You can implement and get used to it with different datasets available and get familiar with this algorithm. Experimenting can be done with values of p and n_neighbors. The ratio of train_test_split data can vary as well but it's recommended to 80:20 ratio for beginers as it would indeed be a good starting point to differentiate with various algorithms. Hope it was useful and gave a quick insight to K-Nearest Neighbor Classification using Python.
+<h2>📫Conclusion</h2>
 
-You can visit [Kaggle](https://www.kaggle.com/) to find more datasets that you can perform Classification with K-Nearest Neighbors.
+Now you know the what is K-Nearest Neighbor Algorithm and the concept is covered. You can implement and get used to it with different datasets available and get familiar with this algorithm. Experimenting can be done with values of p and n_neighbors. The ratio of train_test_split data can vary as well but it's recommended to 80:20 ratio for beginers as it would indeed be a good starting point to differentiate with various algorithms. Hope it was useful and gave a quick insight to K-Nearest Neighbor Classification using Python.
 
-Thank you for reading, I would love to connect with you at [LinkedIn](https://www.linkedin.com/in/prathima-kadari).
+You can visit [Kaggle](https://www.kaggle.com/) to find more datasets that you can perform Classification with K-Nearest Neighbors. 
 
-Do share your valuable suggestions and feel free to reach out to me in comments, I appreciate your honest feedback.
+
+I hope you found this article helpful. Drop me your comments, like and do share your valuable opinions, if it did. Also I would be happy to know about how you felt working on KNN Classification for the very first time.
+
+Thanks for reading.
+I would love to connect with you at [LinkedIn](https://www.linkedin.com/in/prathima-kadari) | [Twitter](https://www.linkedin.com/in/prathima-kadari/).🤝🏻
+
+
+<h2>📖You should definitely check out my other Blogs:</h2>
+
+- [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
+
+- [My Python Learning Experience](https://prathimakadari.hashnode.dev/my-python-learning-experience)
+
+- [Getting Started with Internet of Things(IOT)](https://prathimakadari.hashnode.dev/getting-started-with-iot)
+
+- [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
+
+- [Building my Personal Brand](https://prathimakadari.hashnode.dev/building-my-personal-brand)
+
+- [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
+
+
+See you in my next article, Take care.
+
 GOOD LUCK 👍
