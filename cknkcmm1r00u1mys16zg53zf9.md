@@ -20,6 +20,10 @@ To show your personal brand, consistency is the the key factor. Being consistent
 
 Showing your personal brand will help in building trust with readers and present you as a resourceful authority and a knowledgeable person in your industry. It helps in creating your own value
 
+
+![PersonalBrand.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1618660199437/ZuyLEB7el.jpeg)
+
+
 **Know your Audience**
 
 Before you start working on developing your personal brand, you should know the niche you are focussing on and audience you're trying to reach. Once you define an audience, article can be easier to craft because it will help you understand the type of story you want to express.
